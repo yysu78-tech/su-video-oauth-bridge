@@ -1,0 +1,8 @@
+{
+  "name": "su-video-oauth-bridge",
+  "description": "A robust Node.js + Express OAuth bridge for Google Drive integration, featuring Firebase Firestore token persistence and a React-based management dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
