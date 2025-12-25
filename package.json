@@ -2,6 +2,7 @@
 {
   "name": "su-video-oauth-bridge",
   "version": "1.0.0",
+  "type": "module",
   "private": true,
   "dependencies": {
     "express": "^4.18.2",
